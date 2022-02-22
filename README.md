@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrNewbie3
+- 👋 Hi, I’m @MrNewbie3 A.K.A. Atharafi
 - 👀 I’m Student at SMK Telkom Malang
 - 🌱 I’m currently learning Java, HTML, CSS, JS
 - Currently learning about web development
