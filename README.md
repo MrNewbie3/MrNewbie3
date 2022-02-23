@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnewbie3&show_icons=true&theme=tokyonight)](https://github.com/mrnewbie3/github-readme-stats)
 <!-- Stats too -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrnewbie3&theme=tokyonight_duo)](https://git.io/streak-stats)
+<!-- Also stats but in graph -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mrnewbie3&theme=react-dark)](https://github.com/mrnewbie3/github-readme-activity-graph)
